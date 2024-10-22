@@ -1,0 +1,5 @@
+export default {
+  BASE_SERVER_URL: import.meta.env.VITE_APP_BASE_SERVER_URL,
+  GOOGLE_CLIENT_ID: import.meta.env.VITE_APP_GOOGLE_CLIENT_ID,
+  GOOGLE_OAUTH_REDIRECT_URL: import.meta.env.VITE_APP_GOOGLE_OAUTH_REDIRECT_URL,
+};
